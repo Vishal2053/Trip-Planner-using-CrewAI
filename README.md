@@ -35,7 +35,7 @@ The **Trip Planner** leverages `CrewAI` to provide automated itinerary planning 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/trip-planner.git
+   git clone https://github.com/Vishal2053/Trip-Planner-using-CrewAI.git
    cd trip-planner
    ```
 
